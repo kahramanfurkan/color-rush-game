@@ -6,7 +6,13 @@ Color Rush: Find Different Color is a casual game in which you race against time
 
 **AppGallery:** https://appgallery.huawei.com/app/C107856271
 
+# Features:
+* Unlimited Levels
+* Sound Effects
+* Leaderboard
+
 # Build With:
 * React Native
+* Typescript
 * Expo
 * Firebase
