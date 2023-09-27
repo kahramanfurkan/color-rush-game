@@ -19,7 +19,7 @@ Color Rush: Find Different Color is a casual game in which you race against time
 * Expo
 * Firebase
 
-* # Screenshots:
+# Screenshots:
 <div style="display:flex;justify-content:center;">
 <img src="ss1.png" alt="drawing" width="200"/>
 <img src="ss2.png" alt="drawing" width="200"/>
